@@ -2,17 +2,17 @@
 
 [PostCSS] plugin does something with input CSS files.
 
-[PostCSS]: https://github.com/postcss/postcss
+[postcss]: https://github.com/postcss/postcss
 
 ```css
 .foo {
-    /* Input example */
+  color: red;
 }
 ```
 
 ```css
 .foo {
-  /* Output example */
+  color: rgb(255, 0, 0);
 }
 ```
 
