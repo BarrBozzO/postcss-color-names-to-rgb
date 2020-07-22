@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "[PostCSS] plugin does something with input CSS files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BarrBozzO/postcss-color-names-to-rgb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BarrBozzO/postcss-color-names-to-rgb/issues"
+  },
+  "homepage": "https://github.com/BarrBozzO/postcss-color-names-to-rgb#readme"
+}
